@@ -2,7 +2,8 @@
 
 Currently working on:
 - noise.town website overhaul
-- One or two Unity projects
+- Foglands
+- One or two small Unity experiments
 
 Currently getting better at:
 - Node.js
