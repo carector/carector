@@ -1,4 +1,15 @@
+# 🦀
 
+Currently working on:
+- noise.town website overhaul
+- One or two Unity projects
+
+Currently getting better at:
+- Node.js
+- Python
+
+
+```SHARPEN YER BOOT AND BLUDGEON YER EYE!```
 
 <!--
 **carector/carector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
