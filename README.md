@@ -5,7 +5,7 @@ Currently working on:
 - Foglands
 - One or two small Unity experiments
 
-Currently getting better at:
+Currently practicing:
 - Node.js
 - Python
 
