@@ -3,7 +3,7 @@
 Currently working on:
 - noise.town website overhaul
 - Foglands
-- One or two small Unity experiments
+- One or two small Node.js experiments
 
 Currently practicing:
 - Node.js
