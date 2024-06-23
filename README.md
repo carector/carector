@@ -7,7 +7,6 @@ Currently working on:
 
 Currently practicing:
 - Node.js
-- Python
 
 
 ```SHARPEN YER BOOT AND BLUDGEON YER EYE!```
