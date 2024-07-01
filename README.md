@@ -1,12 +1,13 @@
 # 💣
 
 Currently working on:
-- noise.town website overhaul
+- ~~noise.town website overhaul~~
 - Foglands
 - One or two small Node.js experiments
 
-Currently practicing:
+Practicing:
 - Node.js
+- C++
 
 
 ```SHARPEN YER BOOT AND BLUDGEON YER EYE!```
