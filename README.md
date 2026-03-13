@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/59402cab-1799-4733-b30d-ec5d8ed0a7c9.svg)](https://wakatime.com/@59402cab-1799-4733-b30d-ec5d8ed0a7c9)
 ---
-Hi. I've worked on a number of Unity game projects and several other mediocre Python + Node.js projects. Most of my interesting stuff is private, but I'm trying to keep most of my current work public. Check out my pinned repositories if you want to see more.
+Hi. I've worked on a number of Unity game projects and several other mediocre Python + Node.js projects. Most of my interesting stuff is private, but I'm trying to keep my more recent work public. Check out my pinned repositories if you want to see more.
 
 ### Favorite software and tools
 - [Everything](https://www.voidtools.com/) - Instant file / folder search for Windows
